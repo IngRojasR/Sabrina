@@ -10,8 +10,8 @@ Ingrith ingresa una nueva línea para practicar.
 
 Esta práctica la estoy haciendo el día 31 de Enero de 2022.
 
+Aprendiendo Comandos git. 
+
 ## Autor ✒️
 
 * **Ingrith Katherine Rojas Rojas**. *Desarrolladora*. Soy Ingeniera de Sistemas ...
-
-Aprendiendo Comandos git. 
