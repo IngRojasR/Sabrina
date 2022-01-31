@@ -10,3 +10,7 @@ Aprendiendo Comandos git con el fin de iniciar en el Desarrollo de Software.
 
 * **Ingrith Katherine Rojas Rojas**. *Desarrolladora*. Soy Ingeniera de Sistemas ...
 * **Erik Dario Hernández Vásquez**. *Desarrolladora*. Soy Ingeniera de Sistemas ...
+
+## Lenguaje de Programación
+* React.
+* Angular
