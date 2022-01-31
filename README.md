@@ -1,4 +1,4 @@
-# Sabrina - Repositorio
+# Repositorio Sabrina 2022.
 
 Este repositorio es de prueba. Aquí trabajara Erik e Ingrith para aprender Git.
 
