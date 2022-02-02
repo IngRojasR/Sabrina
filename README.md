@@ -21,5 +21,5 @@ Aprendiendo Comandos git con el fin de iniciar en el Desarrollo de Software para
 if (Ingrith == 'Estudia' and Erik == 'Trabaja' and Luz == True) {
     Líneas de Código
 }else{
-    //Aquí va otro bloque de código.
+    //Aquí va otro bloque de código...
 }
