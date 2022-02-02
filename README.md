@@ -16,3 +16,7 @@ Aprendiendo Comandos git con el fin de iniciar en el Desarrollo de Software para
 * CSS
 
 ## Bloque de código
+
+if (Ingrith == 'Estudia' and Erik == 'Trabaja'){
+   //****
+}
