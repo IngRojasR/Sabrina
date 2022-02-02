@@ -17,7 +17,7 @@ Aprendiendo Comandos git con el fin de iniciar en el Desarrollo de Software para
 
 ## Bloque de código
 
-if (Ingrith == 'Estudia' and Luz == True) {
+if (Ingrith == 'Estudia' and Erik == 'Trabaja') {
     //****
     
 }
