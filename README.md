@@ -25,4 +25,4 @@ if (Ingrith == 'Estudia' and Erik == 'Trabaja' and Luz == True) {
 }
 ## SOFIA LA QUINCEAÑERA
 
-Este es el quinecañero de Sofi. Todos estaremos allá. Quienes ..???
+Este es el quinceañero de Sofi. Todos estaremos allá. Quiénes ..???
