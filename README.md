@@ -25,4 +25,4 @@ if (Ingrith == 'Estudia' and Erik == 'Trabaja' and Luz == True) {
 }
 ## SOFIA LA QUINCEAÑERA
 
-Este es el quinecañero de Sofi. 
+Este es el quinecañero de Sofi. Todos estaremos allá. 
