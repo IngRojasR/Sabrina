@@ -26,3 +26,6 @@ if (Ingrith == 'Estudia' and Erik == 'Trabaja' and Luz == True) {
 ## SOFIA LA QUINCEAÑERA
 
 Este es el quinceañero de Sofi. Todos estaremos allá. Quiénes ..???
+
+## Nuevos cambios
+Aqui iniciamos nuevos cambios
